@@ -56,9 +56,9 @@ Below is a breakdown of enterprise SaaS platforms sorted in **descending order b
 
 ## 🔓 Open-Source GitHub Projects ⚡
 
-The open-source SCM landscape is mature and battle-tested. Below are leading open-source Git server and version control software repos, sorted in **descending order by GitHub Star Count**:
+The open-source SCM landscape is mature and battle-tested. Below are leading open-source Git server and version control software repos, sorted in **descending order by GitHub Stars_Count**:
 
-| Repo 📦 | Description 📝 | Stars 🌟 |
+| Repo 📦 | Description 📝 | GitHub_Stars 🌟 |
 |:---|:---|:---:|
 | **[Gitea](https://github.com/go-gitea/gitea)** | **Painless self-hosted Git service.** Ultra-lightweight, fast, written in Go. Includes issue tracking, wiki, and code review. **MIT License**. | [![Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers) |
 | **[Gogs](https://github.com/gogs/gogs)** | **A painless, self-hosted Git service.** Extremely low system requirements; runs on Raspberry Pi. Written in Go. **MIT License**. | [![Stars](https://img.shields.io/github/stars/gogs/gogs?style=social&color=white)](https://github.com/gogs/gogs/stargazers) |
@@ -82,7 +82,7 @@ Contributions are welcome! To add a new enterprise SCM tool or open-source repos
 
 1. **Fork** this repository.
 2. **Create a new branch** (`git checkout -b feature/add-scm-tool`).
-3. **Add the entry** following the tabular format above (ensure pricing, free tier, company size, or star badge are included).
+3. **Add the entry** following the tabular format above (ensure pricing, free tier, company size, or Stars_Badge are included).
 4. **Commit your changes** and submit a **Pull Request**.
 
 ---
